@@ -1,2 +1,4 @@
 # review.md
 
+The field of computable law is at once very new and also nearly as old as the law itself. The sense in which this concept is old is simple: computation has been common practice for thousands of years before the advent of computer machines done through mediums as ancient as papyrus and devices as traditional as the abacus.  Similarly, in a sense, anytime long-hand math was used to calculate taxes owed under decree, or some form of visual geometry used to establish the division of lands provided veterans of an ancient war, the rule of law was literally computed.  Even more complex non-electronic computing devices include the "Turning Complete" machine, and  are capabl of more advanced computation.  Computable law include defined rules and conditions and are capable of objectively knowable answers when applied to facts.
+
